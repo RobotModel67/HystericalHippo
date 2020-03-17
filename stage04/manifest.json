@@ -1,0 +1,19 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 3000
+    },
+    "register": {
+        "plugins": [
+            {
+                "plugin": "./controllers/facultad",
+                "options": {
+                    "host": "localhost"
+                },
+                "routes": {
+                    "prefix": "/running"
+                }
+            }
+        ]
+    }
+}

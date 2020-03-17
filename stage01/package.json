@@ -1,0 +1,14 @@
+{
+  "name": "hysterical-hyppo",
+  "version": "1.0.0",
+  "description": "Node Hapi playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robotmodel67",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
