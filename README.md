@@ -11,7 +11,8 @@ Hapi Pal project (Empty)
 From 'hello world' TO Glue + Manifest server testing ()
 
 ## Stage04
-Based Stage03/App-05 server + Sequelizer/MySql
+Based Stage03/App-05 server + Sequelizer/MySql  
+    * app-01.js: Everything in a file. Require hapi, sequelizer, mysql2
 
 ## REFERENCE
 

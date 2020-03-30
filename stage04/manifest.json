@@ -6,12 +6,12 @@
     "register": {
         "plugins": [
             {
-                "plugin": "./controllers/facultad",
+                "plugin": "./app/routes",
                 "options": {
                     "host": "localhost"
                 },
                 "routes": {
-                    "prefix": "/running"
+                    "prefix": "/api"
                 }
             }
         ]
